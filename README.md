@@ -1,7 +1,7 @@
 # yape_restfull_booker
 # WebService
 
-__Nota: Los siguientes pasos para WebService se realizaron desde Postman importando el CURL para crear el REQUEST (Para los 3 casos, el Status code es 200 tal cual se muestran en las imágenes)__
+__Nota: Los siguientes pasos para WebService se realizaron desde Postman importando el CURL para crear el REQUEST (Para los 8 casos, el Status code es 200 tal cual se muestran en las imágenes)__
 
 ## 1. Crear Token realizando un POST :
 
