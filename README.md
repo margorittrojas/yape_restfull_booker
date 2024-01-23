@@ -27,7 +27,7 @@ __Nota: Los siguientes pasos para WebService se realizaron desde Postman importa
 
 <img width="1006" alt="image" src="https://github.com/margorittrojas/yape_restfull_booker/assets/123605259/80df9446-c296-4d9c-b74e-7c866970f759">
 
-## 7. Realizar DEL para eliminar los datos del Booking ID existente :
+## 7. Realizar DELETE para eliminar los datos del Booking ID existente :
 
 <img width="1032" alt="image" src="https://github.com/margorittrojas/yape_restfull_booker/assets/123605259/a4a60bb4-7a97-46ed-9591-c648e3ff08d7">
 
